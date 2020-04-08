@@ -1,0 +1,10 @@
+#top {
+    font-family: 'Merriweather', serif;
+    color: green;
+}
+#bottom {
+    background-image: url(./images/cart-map.jpg) no-repeat center center fixed;
+    background-size: cover;    
+}
+
+
