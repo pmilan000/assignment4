@@ -1,10 +1,17 @@
-#top {
+header {
+    top: 0;
     font-family: 'Merriweather', serif;
-    color: green;
+    background-color: brown;
 }
-#bottom {
-    background-image: url(./images/cart-map.jpg) no-repeat center center fixed;
-    background-size: cover;    
+
+body {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background: url(./images/cart-map.jpg) no-repeat center center fixed;
+    /* -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; */
+    background: cover;
 }
 
 
